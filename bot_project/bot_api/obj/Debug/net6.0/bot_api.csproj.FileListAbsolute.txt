@@ -1,0 +1,132 @@
+C:\Users\Валерия\source\repos\bot_api\bot_api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Валерия\source\repos\bot_api\bot_api\bin\Debug\net6.0\appsettings.json
+C:\Users\Валерия\source\repos\bot_api\bot_api\bin\Debug\net6.0\bot_api.exe
+C:\Users\Валерия\source\repos\bot_api\bot_api\bin\Debug\net6.0\bot_api.deps.json
+C:\Users\Валерия\source\repos\bot_api\bot_api\bin\Debug\net6.0\bot_api.runtimeconfig.json
+C:\Users\Валерия\source\repos\bot_api\bot_api\bin\Debug\net6.0\bot_api.dll
+C:\Users\Валерия\source\repos\bot_api\bot_api\bin\Debug\net6.0\bot_api.pdb
+C:\Users\Валерия\source\repos\bot_api\bot_api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Валерия\source\repos\bot_api\bot_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Валерия\source\repos\bot_api\bot_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Валерия\source\repos\bot_api\bot_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Валерия\source\repos\bot_api\bot_api\obj\Debug\net6.0\bot_api.csproj.AssemblyReference.cache
+C:\Users\Валерия\source\repos\bot_api\bot_api\obj\Debug\net6.0\bot_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валерия\source\repos\bot_api\bot_api\obj\Debug\net6.0\bot_api.AssemblyInfoInputs.cache
+C:\Users\Валерия\source\repos\bot_api\bot_api\obj\Debug\net6.0\bot_api.AssemblyInfo.cs
+C:\Users\Валерия\source\repos\bot_api\bot_api\obj\Debug\net6.0\bot_api.csproj.CoreCompileInputs.cache
+C:\Users\Валерия\source\repos\bot_api\bot_api\obj\Debug\net6.0\bot_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Валерия\source\repos\bot_api\bot_api\obj\Debug\net6.0\bot_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Валерия\source\repos\bot_api\bot_api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Валерия\source\repos\bot_api\bot_api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Валерия\source\repos\bot_api\bot_api\obj\Debug\net6.0\scopedcss\bundle\bot_api.styles.css
+C:\Users\Валерия\source\repos\bot_api\bot_api\obj\Debug\net6.0\bot_api.csproj.CopyComplete
+C:\Users\Валерия\source\repos\bot_api\bot_api\obj\Debug\net6.0\bot_api.dll
+C:\Users\Валерия\source\repos\bot_api\bot_api\obj\Debug\net6.0\refint\bot_api.dll
+C:\Users\Валерия\source\repos\bot_api\bot_api\obj\Debug\net6.0\bot_api.pdb
+C:\Users\Валерия\source\repos\bot_api\bot_api\obj\Debug\net6.0\bot_api.genruntimeconfig.cache
+C:\Users\Валерия\source\repos\bot_api\bot_api\obj\Debug\net6.0\ref\bot_api.dll
+C:\Users\Валерия\source\repos\bot_api\bot_api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Валерия\source\repos\bot_api\bot_api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Валерия\source\repos\bot_api\bot_api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Валерия\source\repos\bot_api\bot_api\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Валерия\source\repos\bot_api\bot_api\bin\Debug\net6.0\Nancy.dll
+C:\Users\Валерия\source\repos\bot_api\bot_api\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\bin\Debug\net6.0\appsettings.json
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\bin\Debug\net6.0\bot_api.exe
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\bin\Debug\net6.0\bot_api.deps.json
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\bin\Debug\net6.0\bot_api.runtimeconfig.json
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\bin\Debug\net6.0\bot_api.dll
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\bin\Debug\net6.0\bot_api.pdb
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\bin\Debug\net6.0\Nancy.dll
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\obj\Debug\net6.0\bot_api.csproj.AssemblyReference.cache
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\obj\Debug\net6.0\bot_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\obj\Debug\net6.0\bot_api.AssemblyInfoInputs.cache
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\obj\Debug\net6.0\bot_api.AssemblyInfo.cs
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\obj\Debug\net6.0\bot_api.csproj.CoreCompileInputs.cache
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\obj\Debug\net6.0\bot_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\obj\Debug\net6.0\bot_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\obj\Debug\net6.0\scopedcss\bundle\bot_api.styles.css
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\obj\Debug\net6.0\bot_api.csproj.CopyComplete
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\obj\Debug\net6.0\bot_api.dll
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\obj\Debug\net6.0\refint\bot_api.dll
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\obj\Debug\net6.0\bot_api.pdb
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\obj\Debug\net6.0\bot_api.genruntimeconfig.cache
+C:\Users\Валерия\Desktop\project\bot_api\bot_api\obj\Debug\net6.0\ref\bot_api.dll
+C:\Users\Валерия\Desktop\bot_project\bot_api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Валерия\Desktop\bot_project\bot_api\bin\Debug\net6.0\appsettings.json
+C:\Users\Валерия\Desktop\bot_project\bot_api\bin\Debug\net6.0\bot_api.exe
+C:\Users\Валерия\Desktop\bot_project\bot_api\bin\Debug\net6.0\bot_api.deps.json
+C:\Users\Валерия\Desktop\bot_project\bot_api\bin\Debug\net6.0\bot_api.runtimeconfig.json
+C:\Users\Валерия\Desktop\bot_project\bot_api\bin\Debug\net6.0\bot_api.dll
+C:\Users\Валерия\Desktop\bot_project\bot_api\bin\Debug\net6.0\bot_api.pdb
+C:\Users\Валерия\Desktop\bot_project\bot_api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Валерия\Desktop\bot_project\bot_api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Валерия\Desktop\bot_project\bot_api\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Валерия\Desktop\bot_project\bot_api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Валерия\Desktop\bot_project\bot_api\bin\Debug\net6.0\Nancy.dll
+C:\Users\Валерия\Desktop\bot_project\bot_api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Валерия\Desktop\bot_project\bot_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Валерия\Desktop\bot_project\bot_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Валерия\Desktop\bot_project\bot_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Валерия\Desktop\bot_project\bot_api\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\Валерия\Desktop\bot_project\bot_api\obj\Debug\net6.0\bot_api.csproj.AssemblyReference.cache
+C:\Users\Валерия\Desktop\bot_project\bot_api\obj\Debug\net6.0\bot_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валерия\Desktop\bot_project\bot_api\obj\Debug\net6.0\bot_api.AssemblyInfoInputs.cache
+C:\Users\Валерия\Desktop\bot_project\bot_api\obj\Debug\net6.0\bot_api.AssemblyInfo.cs
+C:\Users\Валерия\Desktop\bot_project\bot_api\obj\Debug\net6.0\bot_api.csproj.CoreCompileInputs.cache
+C:\Users\Валерия\Desktop\bot_project\bot_api\obj\Debug\net6.0\bot_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Валерия\Desktop\bot_project\bot_api\obj\Debug\net6.0\bot_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Валерия\Desktop\bot_project\bot_api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Валерия\Desktop\bot_project\bot_api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Валерия\Desktop\bot_project\bot_api\obj\Debug\net6.0\scopedcss\bundle\bot_api.styles.css
+C:\Users\Валерия\Desktop\bot_project\bot_api\obj\Debug\net6.0\bot_api.csproj.CopyComplete
+C:\Users\Валерия\Desktop\bot_project\bot_api\obj\Debug\net6.0\bot_api.dll
+C:\Users\Валерия\Desktop\bot_project\bot_api\obj\Debug\net6.0\refint\bot_api.dll
+C:\Users\Валерия\Desktop\bot_project\bot_api\obj\Debug\net6.0\bot_api.pdb
+C:\Users\Валерия\Desktop\bot_project\bot_api\obj\Debug\net6.0\bot_api.genruntimeconfig.cache
+C:\Users\Валерия\Desktop\bot_project\bot_api\obj\Debug\net6.0\ref\bot_api.dll
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\bin\Debug\net6.0\appsettings.json
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\bin\Debug\net6.0\bot_api.exe
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\bin\Debug\net6.0\bot_api.deps.json
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\bin\Debug\net6.0\bot_api.runtimeconfig.json
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\bin\Debug\net6.0\bot_api.dll
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\bin\Debug\net6.0\bot_api.pdb
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\bin\Debug\net6.0\Nancy.dll
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\obj\Debug\net6.0\bot_api.csproj.AssemblyReference.cache
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\obj\Debug\net6.0\bot_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\obj\Debug\net6.0\bot_api.AssemblyInfoInputs.cache
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\obj\Debug\net6.0\bot_api.AssemblyInfo.cs
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\obj\Debug\net6.0\bot_api.csproj.CoreCompileInputs.cache
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\obj\Debug\net6.0\bot_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\obj\Debug\net6.0\bot_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\obj\Debug\net6.0\scopedcss\bundle\bot_api.styles.css
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\obj\Debug\net6.0\bot_api.csproj.CopyComplete
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\obj\Debug\net6.0\bot_api.dll
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\obj\Debug\net6.0\refint\bot_api.dll
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\obj\Debug\net6.0\bot_api.pdb
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\obj\Debug\net6.0\bot_api.genruntimeconfig.cache
+C:\Users\Наташенька\OneDrive\Рабочий стол\bot_project\bot_api\obj\Debug\net6.0\ref\bot_api.dll

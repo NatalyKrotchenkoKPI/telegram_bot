@@ -1,0 +1,55 @@
+{
+  "Title": "ExampleTitle",
+  "Id": "492794255",
+  "Author": "Rowling",
+  "Rate": "ExampleRate",
+  "Genre": "love"
+}{
+  "Title": "ExampleTitle",
+  "Id": "492794255",
+  "Author": "Rowling",
+  "Rate": "1",
+  "Genre": "history"
+}{
+  "Title": "1",
+  "Id": "exampleId",
+  "Author": "1",
+  "Rate": "1",
+  "Genre": "1"
+}{
+  "Title": "1",
+  "Id": "exampleId",
+  "Author": "1",
+  "Rate": "1",
+  "Genre": "1"
+}{
+  "Title": "a",
+  "Id": "exampleId",
+  "Author": "a",
+  "Rate": "a",
+  "Genre": "a"
+}{
+  "Title": "s",
+  "Id": "492794255",
+  "Author": "s",
+  "Rate": "s",
+  "Genre": "s"
+}{
+  "Title": "Harry Potter",
+  "Id": "492794255",
+  "Author": "Rowling",
+  "Rate": "100",
+  "Genre": "fantastic"
+}{
+  "Title": "dog",
+  "Id": "1",
+  "Author": "Kot",
+  "Rate": "10",
+  "Genre": "roman"
+}{
+  "Title": "Wuthering Heights",
+  "Id": "989856447",
+  "Author": "Emily Bront\u00EB",
+  "Rate": "8",
+  "Genre": "love"
+}
